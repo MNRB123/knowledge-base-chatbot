@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Knowledge Base Chatbot — RAG-Powered AI Assistant
 
 > **RAG (Retrieval-Augmented Generation)** technology se powered ek intelligent chatbot jo company ke internal documents, FAQs aur manuals se answers deta hai.
@@ -224,3 +225,7 @@ Compress-Archive -Path "knowledge-base-chatbot" -DestinationPath "knowledge-base
 
 **CORS error?**
 → backend `.env` में `FRONTEND_URL=http://localhost:3000` set करें
+=======
+# knowledge-base-chatbot
+A chatbot that answers user queries by pulling information from a company’s internal documents, FAQs, or product manuals using RAG (Retrieval-Augmented Generation).
+>>>>>>> 826a32389f023a88f4c921038f03a98dba80b147

@@ -229,3 +229,11 @@ Compress-Archive -Path "knowledge-base-chatbot" -DestinationPath "knowledge-base
 # knowledge-base-chatbot
 A chatbot that answers user queries by pulling information from a company’s internal documents, FAQs, or product manuals using RAG (Retrieval-Augmented Generation).
 >>>>>>> 826a32389f023a88f4c921038f03a98dba80b147
+
+## 🎨 Project UI/UX Output
+
+### Chat Interface
+![KnowledgeBot Chat UI](images/ui-output%20(2).png)
+
+### Login Interface
+![KnowledgeBot Login UI](images/ui-output%20(3).png)
